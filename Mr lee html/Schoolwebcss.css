@@ -1,0 +1,36 @@
+a:link{
+    color:blueviolet
+}
+a:visited{
+    color:rgb(20, 220, 160)
+}
+.Headerbutton{
+    background-color: yellow;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    transition: 0.4s; 
+    
+}
+.Headerbutton:hover{
+    background-color: white;
+}
+
+.header{
+    border: purple;
+    background-color: green;
+    text-align: center;
+    
+}
+.headerText{
+    float: left;
+}
+
+.boxContainer{
+    border: 2px outset black;
+    text-align: center;
+}
